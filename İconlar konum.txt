@@ -1,0 +1,1 @@
+C:\Users\ali\Desktop\Masaustu\python\Projeler\PyQt-Fluent-Widgets\qfluentwidgets\_rc\images\icons
